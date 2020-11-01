@@ -1,0 +1,12 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    self_contained: no
+---
+
+# This page has information about me
+
+I'm a biostats student at Mailman
